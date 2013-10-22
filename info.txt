@@ -1,0 +1,9 @@
+title: Index Structure
+desc:  Use different structure for root and folders on index page.
+author: Oliver Riesen <oliver@riesen.org>
+url: http://www.phorum.org/phorum5/read.php?62,129390
+category: viewlayout
+required_version: 5.2.0
+version: 1.0.0
+
+hook: common_pre|mod_index_structure_common_pre

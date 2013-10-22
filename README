@@ -1,0 +1,47 @@
+Module: Index Structure
+Author: Oliver Riesen <oliver@riesen.org>
+
+Use different structure for root and folders on index page.
+
+Phorum has in General Setting an option how to display forums and folders on
+the index page: directory and flat. Flat structure is appropriate for a small
+amount of folders and forums. Directory structure is best for large system with
+a lot of folders and forums.
+
+But what to do if you have a large root with a lot of folders but each folders
+contains only few subfolders/forums? Or the opposite: few folders in root but
+many subfolders/forums in each folder?
+
+Here you can use the Index Structure Module. It will use the value from general
+settings for the root and the opposite value for all folders. So if you choose
+"Directory" in general settings your root will be structured as directory but
+folders will displayed in flat structure.
+
+Tested on version 5.2.7
+
+
+License:
+-------
+
+Free to use, modify, or redistribute this code so long as I am given credit for
+the original development somewhere. This code comes with absolutly no warranty.
+
+
+Installation:
+------------
+
+1. Unpack the archive.
+
+2. Move the directory "index_structure" to the directory "mods" within your
+   Phorum installation. Don't change the directory name!
+
+3. Login as administrator in Phorum's administrative interface and go to the
+   "Modules" section.
+
+4. Enable the module "Index Structure".
+
+
+Language support:
+----------------
+
+This module doesn't contain any language text.
