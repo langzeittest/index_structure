@@ -1,4 +1,5 @@
 Module: Index Structure
+Version: 1.0.0
 Author: Oliver Riesen <oliver@riesen.org>
 
 Use different structure for root and folders on index page.
@@ -45,3 +46,10 @@ Language support:
 ----------------
 
 This module doesn't contain any language text.
+
+
+Contribution:
+------------
+
+Contribute on GitHub:
+https://github.com/langzeittest/index_structure
